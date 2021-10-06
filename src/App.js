@@ -1,5 +1,7 @@
 import React from "react";
 
+const hi = "hi";
+
 const foodILike = [
   {
     id: 1,
